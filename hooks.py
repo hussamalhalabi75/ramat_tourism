@@ -1,0 +1,6 @@
+app_name = "ramat_tourism"
+app_title = "Ramat Tourism"
+app_publisher = "Hussam"
+app_description = "Tourism Management App"
+app_email = "hussam@example.com"
+app_license = "mit"
